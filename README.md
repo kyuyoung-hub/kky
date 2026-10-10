@@ -24,6 +24,6 @@
 
 ## 소개 영상
 
-[![프로젝트 소개 영상](docs/overview_poster.png)](docs/overview.mp4)
+<video src="docs/overview.mp4" poster="docs/overview_poster.png" controls width="720"></video>
 
-▶ [소개 영상 보기 (42초)](docs/overview.mp4) · 자세한 설명은 [프로젝트_소개.md](프로젝트_소개.md)
+자세한 설명은 [프로젝트_소개.md](프로젝트_소개.md)
