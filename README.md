@@ -24,6 +24,6 @@
 
 ## 소개 영상
 
-<video src="docs/overview.mp4" poster="docs/overview_poster.png" controls width="720"></video>
+![프로젝트 소개 영상 (42초, 소리 없음)](docs/overview.gif)
 
 자세한 설명은 [프로젝트_소개.md](프로젝트_소개.md)
